@@ -14,4 +14,4 @@
     <img align="center" alt="logo linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div><br/>
 
-Estudante do segundo período de análise e desenvolvimento de sistemas e apaixonado por tecnologia.
+Estudante do terceiro período de análise e desenvolvimento de sistemas e apaixonado por tecnologia.
