@@ -12,6 +12,9 @@
     <img align="center" alt="logo css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="logo java script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="logo linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="Logo linguagem java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    
 </div><br/>
+
 
 Estudante do terceiro período de análise e desenvolvimento de sistemas e apaixonado por tecnologia.
